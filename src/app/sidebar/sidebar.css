@@ -1,0 +1,44 @@
+.sidebar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.nav-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.sidebar {
+  width: 260px;
+  background: white;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.user-info h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+.role {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+.overview ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.overview li {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.3rem 0;
+}
+.nav-icons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}

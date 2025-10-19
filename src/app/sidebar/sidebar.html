@@ -1,0 +1,61 @@
+<div class="sidebar-container">
+  <div class="nav-buttons">
+    <button mat-icon-button>
+      <mat-icon>home</mat-icon>
+    </button>
+    <button mat-icon-button>
+      <mat-icon>assignment</mat-icon>
+    </button>
+    <button mat-icon-button>
+      <mat-icon>calendar_today</mat-icon>
+    </button>
+    <button mat-icon-button>
+      <mat-icon>settings</mat-icon>
+    </button>
+  </div>
+  <div class="sidebar">
+    <!-- Header -->
+    <div class="user-info">
+      <h3>{{ user.Name }}</h3>
+      <p class="role">{{ user.Description }}</p>
+    </div>
+
+    <!-- Overview -->
+    <div class="overview">
+      <h4>Overview</h4>
+      <ul>
+        <li>
+          <span>Total Earnings</span>
+          <span>R {{ summary.totalEarnings }}</span>
+        </li>
+        <li>
+          <span>Total Deductions</span>
+          <span>R {{ summary.totalDeductions }}</span>
+        </li>
+        <li>
+          <span>Net Total</span>
+          <span>R {{ summary.netTotal }}</span>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Deductions Breakdown -->
+    <div class="deductions">
+      <h4>Deductions</h4>
+      <ul>
+        <li>
+          <span>UIF</span>
+          <span>R {{ summary.uif }}</span>
+        </li>
+        <li>
+          <span>PAYE</span>
+          <span>R {{ summary.paye }}</span>
+        </li>
+        <li>
+          <span>Total</span>
+          <span>R {{ summary.deductionsTotal }}</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

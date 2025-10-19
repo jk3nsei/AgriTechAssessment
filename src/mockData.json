@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "Name": "John Smith",
+    "Description": "Premium account with extended support access",
+    "Type": "Admin",
+    "Quantity": 3,
+    "Rate": 120.5
+  },
+  {
+    "id": 2,
+    "Name": "Emily Johnson",
+    "Description": "Standard user with limited permissions",
+    "Type": "User",
+    "Quantity": 1,
+    "Rate": 45.0
+  },
+  {
+    "id": 3,
+    "Name": "Michael Brown",
+    "Description": "Business tier user with API integration",
+    "Type": "Business",
+    "Quantity": 8,
+    "Rate": 75.0
+  },
+  {
+    "id": 4,
+    "Name": "Sarah Davis",
+    "Description": "Support team member handling technical queries",
+    "Type": "Support",
+    "Quantity": 2,
+    "Rate": 55.0
+  },
+  {
+    "id": 5,
+    "Name": "David Wilson",
+    "Description": "Enterprise-level account manager",
+    "Type": "Enterprise",
+    "Quantity": 5,
+    "Rate": 200.0
+  },
+  {
+    "id": 6,
+    "Name": "Jessica Martinez",
+    "Description": "User testing early-access features",
+    "Type": "Beta",
+    "Quantity": 1,
+    "Rate": 35.0
+  },
+  {
+    "id": 7,
+    "Name": "Christopher Taylor",
+    "Description": "Data analyst with read-only access",
+    "Type": "User",
+    "Quantity": 4,
+    "Rate": 60.0
+  },
+  {
+    "id": 8,
+    "Name": "Amanda Anderson",
+    "Description": "Customer success representative",
+    "Type": "Support",
+    "Quantity": 3,
+    "Rate": 50.0
+  },
+  {
+    "id": 9,
+    "Name": "Daniel Thomas",
+    "Description": "Enterprise partner with multiple sub-accounts",
+    "Type": "Enterprise",
+    "Quantity": 10,
+    "Rate": 250.0
+  },
+  {
+    "id": 10,
+    "Name": "Olivia White",
+    "Description": "Trial user on limited plan",
+    "Type": "Trial",
+    "Quantity": 1,
+    "Rate": 20.0
+  },
+  {
+    "id": 11,
+    "Name": "Matthew Harris",
+    "Description": "Marketing manager for campaigns",
+    "Type": "Business",
+    "Quantity": 2,
+    "Rate": 80.0
+  },
+  {
+    "id": 12,
+    "Name": "Sophia Lewis",
+    "Description": "Support user with ticket management access",
+    "Type": "Support",
+    "Quantity": 4,
+    "Rate": 58.0
+  },
+  {
+    "id": 13,
+    "Name": "Andrew Walker",
+    "Description": "Technical admin for internal systems",
+    "Type": "Admin",
+    "Quantity": 3,
+    "Rate": 110.0
+  },
+  {
+    "id": 14,
+    "Name": "Mia Hall",
+    "Description": "External contractor under the beta program",
+    "Type": "Beta",
+    "Quantity": 1,
+    "Rate": 42.5
+  },
+  {
+    "id": 15,
+    "Name": "Ethan Allen",
+    "Description": "Standard user with extended license",
+    "Type": "User",
+    "Quantity": 6,
+    "Rate": 47.0
+  },
+  {
+    "id": 16,
+    "Name": "Ava Young",
+    "Description": "Trial user evaluating platform features",
+    "Type": "Trial",
+    "Quantity": 1,
+    "Rate": 19.0
+  },
+  {
+    "id": 17,
+    "Name": "Noah King",
+    "Description": "Business account for sales operations",
+    "Type": "Business",
+    "Quantity": 5,
+    "Rate": 90.0
+  },
+  {
+    "id": 18,
+    "Name": "Isabella Wright",
+    "Description": "Customer support supervisor",
+    "Type": "Support",
+    "Quantity": 2,
+    "Rate": 65.0
+  },
+  {
+    "id": 19,
+    "Name": "Liam Scott",
+    "Description": "Enterprise admin managing integrations",
+    "Type": "Enterprise",
+    "Quantity": 4,
+    "Rate": 210.0
+  },
+  {
+    "id": 20,
+    "Name": "Charlotte Green",
+    "Description": "Marketing beta tester",
+    "Type": "Beta",
+    "Quantity": 2,
+    "Rate": 37.5
+  },
+  {
+    "id": 21,
+    "Name": "James Adams",
+    "Description": "System admin with full privileges",
+    "Type": "Admin",
+    "Quantity": 2,
+    "Rate": 115.0
+  },
+  {
+    "id": 22,
+    "Name": "Amelia Baker",
+    "Description": "Trial customer with referral code",
+    "Type": "Trial",
+    "Quantity": 1,
+    "Rate": 25.0
+  },
+  {
+    "id": 23,
+    "Name": "Benjamin Nelson",
+    "Description": "Business lead for internal operations",
+    "Type": "Business",
+    "Quantity": 7,
+    "Rate": 85.0
+  },
+  {
+    "id": 24,
+    "Name": "Harper Carter",
+    "Description": "Support tier 1 representative",
+    "Type": "Support",
+    "Quantity": 5,
+    "Rate": 52.0
+  },
+  {
+    "id": 25,
+    "Name": "Lucas Mitchell",
+    "Description": "Enterprise client with custom SLA",
+    "Type": "Enterprise",
+    "Quantity": 6,
+    "Rate": 230.0
+  },
+  {
+    "id": 26,
+    "Name": "Evelyn Perez",
+    "Description": "Standard user with basic dashboard access",
+    "Type": "User",
+    "Quantity": 3,
+    "Rate": 40.0
+  },
+  {
+    "id": 27,
+    "Name": "Henry Roberts",
+    "Description": "Beta tester for experimental features",
+    "Type": "Beta",
+    "Quantity": 2,
+    "Rate": 39.0
+  },
+  {
+    "id": 28,
+    "Name": "Abigail Turner",
+    "Description": "Support user managing live chats",
+    "Type": "Support",
+    "Quantity": 4,
+    "Rate": 57.5
+  },
+  {
+    "id": 29,
+    "Name": "Alexander Phillips",
+    "Description": "Enterprise security administrator",
+    "Type": "Enterprise",
+    "Quantity": 3,
+    "Rate": 220.0
+  },
+  {
+    "id": 30,
+    "Name": "Ella Campbell",
+    "Description": "Business user with finance permissions",
+    "Type": "Business",
+    "Quantity": 2,
+    "Rate": 95.0
+  }
+]

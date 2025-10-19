@@ -1,0 +1,28 @@
+:host {
+  display: block;
+  width: 100%;
+}
+
+.mat-mdc-table {
+  width: 100%;
+}
+
+.mat-mdc-header-cell {
+  background: #f8f9fa;
+  font-weight: 500;
+  color: #333;
+  padding: 16px !important;
+}
+
+.mat-mdc-cell {
+  padding: 16px !important;
+}
+
+.mat-mdc-row:hover {
+  background: #f8f9fa;
+}
+
+mat-form-field {
+  width: 100%;
+  margin-bottom: 20px;
+}
